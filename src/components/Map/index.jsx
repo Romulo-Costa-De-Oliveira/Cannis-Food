@@ -5,13 +5,13 @@ import "./styles.css";
 
 const Map = () => {
   const handleApiLoaded = (map, maps) => {
-    // key AIzaSyCWBxlNpEtAk1yi9lgZ5WeW89b5pdva0Ek
+    
   };
 
   return (
     <div className="container-map">
       <GoogleMapReact
-        bootstrapURLKeys={{ key: "AIzaSyCx3n09Zpghadz7-CH2BP3wW-yq9UcH5M8" }}
+        bootstrapURLKeys={{ key: "" }}
         defaultCenter={{
           lat: -23.561684,
           lng: -46.625378,
