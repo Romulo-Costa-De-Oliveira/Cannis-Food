@@ -1,0 +1,13 @@
+.img-marker {
+  position: absolute;
+  width: 50px;
+  left: 73px;
+  top: 400px;
+  border-radius: 100%;
+}
+
+.img-frame {
+  width: 95px;
+  margin-left: 51px;
+  margin-top: 287px;
+}

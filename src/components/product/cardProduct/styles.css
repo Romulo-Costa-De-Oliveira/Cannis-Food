@@ -1,0 +1,29 @@
+.cardproduct {
+  display: block;
+  margin-bottom: 50px;
+}
+
+.cardproduct img {
+  border: 1px solid #aba9a9;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 20px;
+  max-height: 210px;
+  width: 100%;
+}
+
+.cardproduct .badge {
+  margin-bottom: 0;
+}
+
+.cardproduct small {
+  margin-top: 0;
+  line-height: 15px;
+  display: block;
+}
+
+.cardproduct button {
+  margin-top: 150px;
+  margin-left: -47px;
+}
+
